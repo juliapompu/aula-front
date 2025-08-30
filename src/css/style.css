@@ -43,6 +43,22 @@ body{
     /* width: 675px; */
 
 }
+.card2{
+    background-image: url('/src/assets/Jurassic_world_brachiosaurus_updated_by_sonichedgehog2-dc55jvt.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    diplay: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height:380px;
+    /* width: 675px; */
+
+}
 
 .grid-container {
   display: grid; 
