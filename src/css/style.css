@@ -5,8 +5,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/src/360_F');
-
+    background-image: url('/src/assets/787886.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .cardino{
