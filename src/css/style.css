@@ -67,6 +67,126 @@ body{
   align-items: center;
 }
 
+/* ============================== */
+
+.cardino4{
+    font-size: 17px;
+    font-family: long-island;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    diplay: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    max-height: 1500px;
+    background-color: rgb(41, 73, 47);
+
+}
+
+.card4{
+    background-image: url('/src/assets/0205-t-rex-super-site.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    diplay: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height:380px;
+    /* width: 675px; */
+
+}
+
+.grid-container4 {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr; 
+  grid-template-rows: 100px 100px; 
+  gap: 10px; 
+  margin: 10px;
+  font-size: 17px;
+  font-family: long-island;
+}
+
+.grid-container4 div {
+  background-color: rgb(22, 37, 24);
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 17px;
+  font-family: long-island;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ============================== */
+
+.cardino3{
+    font-size: 17px;
+    font-family: long-island;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    diplay: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    max-height: 1500px;
+    background-color: rgb(41, 73, 47);
+
+}
+
+.card3{
+    background-image: url('/src/assets/istockphoto-1436628519-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    diplay: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height:380px;
+    /* width: 675px; */
+
+}
+
+.grid-container3 {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr; 
+  grid-template-rows: 100px 100px; 
+  gap: 10px; 
+  margin: 10px;
+  font-size: 17px;
+  font-family: long-island;
+}
+
+.grid-container3 div {
+  background-color: rgb(22, 37, 24);
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 17px;
+  font-family: long-island;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ============================== */
+
 .cartaDinossauros {
   max-width: 1000px;
   margin: auto;
